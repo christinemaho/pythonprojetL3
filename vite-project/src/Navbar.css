@@ -1,0 +1,21 @@
+nav{
+    height: 80px;
+
+    
+}
+.liste{
+    list-style-type: none;
+    
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+
+}
+
+.items{
+    margin-right: 10px;
+    color: white;
+    cursor: pointer;
+}
